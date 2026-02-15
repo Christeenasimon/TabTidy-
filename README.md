@@ -1,20 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# TabTidy
 
-# Run and deploy your AI Studio app
+TabTidy is a smart web app that helps users manage and reduce too many open browser tabs.
 
-This contains everything you need to run your app locally.
+It scans active tabs, automatically groups similar ones, detects duplicate or inactive tabs, and suggests which tabs can be closed or saved.
 
-View your app in AI Studio: https://ai.studio/apps/drive/17jtS7EcwO_jR3KhjTRIty2rponlt3Kj-
+The app also includes a Focus Mode that keeps only essential tabs open and converts important tabs into organized lists or folders.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+By transforming browser clutter into a structured view, TabTidy improves productivity and reduces digital overwhelm.
