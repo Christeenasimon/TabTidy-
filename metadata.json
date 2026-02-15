@@ -1,0 +1,7 @@
+{
+  "name": "TabTidy - Digital Declutter Therapy",
+  "description": "A cute and aesthetic web app designed to fix 'too many browser tabs' chaos with AI grouping, gamified cleaning, and digital declutter therapy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
